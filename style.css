@@ -1,0 +1,38 @@
+body{
+    font-family: 'Lato', sans-serif;
+    
+}
+h1{
+    font-size: 50px;
+    margin-left: 450px;
+    color: black;
+
+
+}
+.head{
+    margin-left: 400px;
+    margin-top: -30px;
+    font-size:15px ;
+}
+.container{
+    margin-left: -28px;
+    margin-top: -10px;
+}
+.abc{
+    margin-left: 90px;
+    font-size: 18px;
+    width: 1100px;
+
+
+}
+.def{
+    margin-left: 350px;
+    margin-top: -20px;
+}
+.abc hr{
+    
+    margin-right:20px;
+
+}
+
+
