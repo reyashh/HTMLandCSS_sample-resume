@@ -3,7 +3,7 @@ body{
     width:750px;
     margin:0px 50px 0px 50px;
     border:1px solid black;
-    border-width:750px;
+    border-width:auto;
     
 }
 h1{
